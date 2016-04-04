@@ -1,0 +1,2 @@
+www.alphabeta.com 192.168.2.3
+www.abcdef.com 10.2.3.2
